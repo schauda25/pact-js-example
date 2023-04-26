@@ -42,7 +42,7 @@
 {
   "first_name": "Simba",
   "last_name": "Cantwaittobeking",
-  "animal_name": "lion",
+  "animal": "lion",
   "age":  4,
   "gender": "M",
   "location": {
